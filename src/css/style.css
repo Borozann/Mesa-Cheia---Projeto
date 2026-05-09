@@ -1,0 +1,11 @@
+.main {
+  text-align: center;
+}
+
+.item {
+  display: none;
+}
+
+.item.active {
+  display: block;
+}
